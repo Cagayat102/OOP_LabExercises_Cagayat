@@ -1,0 +1,10 @@
+apple
+house
+canada
+pineappple
+wallet
+jacket
+notebook
+ballpen
+monitor
+keyboard
